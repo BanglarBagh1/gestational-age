@@ -25,7 +25,8 @@ jobs:
           sudo ln -sf /usr/lib/android-sdk /android-sdk || true
 
       - name: Build APK (gradlew)
-        run: ./gradlew :app:assembleDebug
+        run: /usr/bin/gradle :app:assembleDebug
+        working-directory: ./
         working-directory: ./
 
       - name: Upload APK
