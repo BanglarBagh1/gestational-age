@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Gestational Age calculator</string>
+    <string name="title_lmp">From Last Menstrual Period (LMP)</string>
+    <string name="label_lmp">LMP Date</string>
+    <string name="btn_calculate_lmp">Calculate Gestational Age from LMP</string>
+    <string name="result_ga">Gestational Age</string>
+    <string name="result_lmp_derived">LMP (calculated)</string>
+    <string name="result_edd_derived">EDD (calculated)</string>
+
+    <string name="title_edd">From Expected Delivery Date (EDD)</string>
+    <string name="label_edd">EDD Date</string>
+    <string name="btn_calculate_edd">Calculate Gestational Age from EDD</string>
+
+    <string name="title_ga_input">From Gestational Age</string>
+    <string name="label_weeks">Weeks</string>
+    <string name="label_days">Days</string>
+    <string name="label_reference_date">Reference Date</string>
+    <string name="btn_calculate_ga">Calculate from Gestational Age</string>
+
+    <string name="label_reference">Reference Date (Today)</string>
+    <string name="hint_ref_date">Select reference date</string>
+    <string name="btn_today">Today</string>
+    <string name="label_weeks_short">w</string>
+    <string name="label_days_short">d</string>
+    <string name="divider">|</string>
+</resources>
